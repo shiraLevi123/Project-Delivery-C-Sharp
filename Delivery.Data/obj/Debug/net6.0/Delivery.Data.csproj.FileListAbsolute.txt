@@ -1,0 +1,8 @@
+C:\Users\mac\Desktop\Deliver\Delivery.Data\obj\Debug\net6.0\Delivery.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mac\Desktop\Deliver\Delivery.Data\obj\Debug\net6.0\Delivery.Data.AssemblyInfoInputs.cache
+C:\Users\mac\Desktop\Deliver\Delivery.Data\obj\Debug\net6.0\Delivery.Data.AssemblyInfo.cs
+C:\Users\mac\Desktop\Deliver\Delivery.Data\obj\Debug\net6.0\Delivery.Data.csproj.CoreCompileInputs.cache
+E:\Deliver\Delivery.Data\obj\Debug\net6.0\Delivery.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Deliver\Delivery.Data\obj\Debug\net6.0\Delivery.Data.AssemblyInfoInputs.cache
+E:\Deliver\Delivery.Data\obj\Debug\net6.0\Delivery.Data.AssemblyInfo.cs
+E:\Deliver\Delivery.Data\obj\Debug\net6.0\Delivery.Data.csproj.CoreCompileInputs.cache
